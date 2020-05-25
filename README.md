@@ -16,7 +16,7 @@ $ sudo pip3 install -r requirements.txt
 # [ Running ]
 ```
 $ python3 certificategenerator.py
-
+```
 # Contributors
 
 - [Neelakandan A](https://github.com/Neelakandan-A)
