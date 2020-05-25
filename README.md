@@ -4,4 +4,4 @@ ECertificate_Generator Using Python and smtp mail client to sent mail ecertifica
 # Contributors
 
 - [Neelakandan A](https://github.com/Neelakandan-A)
-- [Jeyaraman K](https://github.com/Jeyaraman-K)
+- [Jeyaraman K](https://github.com/JeyaramanK)
