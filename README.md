@@ -1,4 +1,4 @@
-# ECertificate_Generator
+# ＥＣｅｒｔｉｆｉｃａｔｅ＿Ｇｅｎｅｒａｔｏｒ
 ECertificate_Generator Using Python and smtp mail client to sent mail ecertificates all participants in one script as a Pdf Format
 
 # Contributors
