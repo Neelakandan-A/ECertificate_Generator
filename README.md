@@ -26,4 +26,4 @@ $ python3 certificategenerator.py
 
    ![](https://i.ibb.co/VmtCBg3/BTC-QRCode.png)
 
-Bitcoin: 35ptN6ZEsuQpJWpCLuw2RQL176MB6yBfaS
+Bitcoin : 35ptN6ZEsuQpJWpCLuw2RQL176MB6yBfaS
