@@ -11,7 +11,7 @@ $ cd ECertificate_Generator
 
 # [ Setup ]
 ```
-$ sudo pip3 install -r requirements.txt
+$ pip3 install -r requirements.txt
 ```
 # [ Running ]
 ```
